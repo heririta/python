@@ -8,6 +8,9 @@ print(len(text))
 print(text.lower())
 print(text.upper())
 
+print(text.upper())
+
+
 print(text.split(' '))
 
 
